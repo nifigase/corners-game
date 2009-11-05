@@ -1,0 +1,9 @@
+*.o
+.settings
+debug
+Release
+moc_*
+qt/bin
+.project
+.cproject
+
